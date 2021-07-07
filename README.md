@@ -38,6 +38,6 @@ If you already have a Google account, please skip this task. If you don't have a
 
 Now we can access Colab; Follow the instruction and create your own Colab notebook. Quick Link to [Colab setting instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Google%20Colab%20Instruction.pdf)
 
-## Task four: Advanced Setting in Colab
+## Task Four: Advanced Setting in Colab
 
 Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. Quick Link to [Advance config instruction]
