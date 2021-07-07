@@ -1,11 +1,10 @@
 
 # Intro
 
-This is the tutorial for the use of the Colaboratory Platform, short for Colab,provided by Google. This will function as the Integrated Developer Environment(IDE) in our track. This repo will teach you how to set up all requirements and configrations on your own Colab notebook.
+This is the tutorial for the environment setting of the TechX computer vision track which will help you set up every thing you need for developing.
 
-## What is IDE & Why Colab?
-
-To be short, IDE is the developing tool where developers implement and test their code. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources.
+## What is Colab & Why Colab?
+Colaboratory Platform, short for Colab, is a Integrated Developer Environment(IDE) developed by Google. It's also functions as the develop platform which we are going to write and test our code. A good weel could fascilliate developer on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources.
 
 ## System, Language and Tools:
 
