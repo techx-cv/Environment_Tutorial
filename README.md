@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 
 This is the tutorial for the environment setting of the TechX computer vision track, which will help you set up everything you need for development. 👾Many detailed tutorials and documents are linked to the Badge Button below. If you wanna learn more, feel free to click it and explore it on your own! 
 
