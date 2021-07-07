@@ -1,6 +1,7 @@
 # Intro
 This is the tutorial for the use of the Colaboratory Platform, short for Colab,provided by Google. This will function as the Integrated Developer Environment(IDE) in our track. This repo will teach you how to set up all requirements and configrations on your own Colab notebook.
 ![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ## What is IDE & Why Colab?
 To be short, IDE is the developing tool where developers implement and test their code. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources.
 
