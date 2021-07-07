@@ -26,6 +26,7 @@ To be short, IDE is the developing tool where developers implement and test thei
 Make sure you have VPN service thus you can use google, colab , etc. For ones doesn't have VPN, TBD.
 
 ## Task Two: Set up your Google Account
-If you already have a Google account, please skip this task. If you don't have a google account, please follow the instruction explicitly and make sure all the settings are correct. Quick Link to [instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/Google%20Account%20Registration.pdf)
+If you already have a Google account, please skip this task. If you don't have a google account, please follow the instruction explicitly and make sure all the settings are correct. Quick Link to [instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/Google%20Account%20Registration.pdf).
 
-## Task Three: 
+## Task Three: Set up your Colab
+
