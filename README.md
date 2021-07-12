@@ -3,7 +3,7 @@
 This is the tutorial for the environment setting of the TechX computer vision track, which will help you set up everything you need for development. 👾Many detailed tutorials and documents are linked to the Badge Button below. If you wanna learn more, feel free to click it and explore it on your own! 
 
 ## What is Colab & Why Colab?
-Collaboratory Platform, short for Colab, is an Integrated Developer Environment(IDE) developed by Google. It also functions as the developing platform in which we are going to write and test our code. A good weel could facilitate developers on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources. More introduction about Colab [Click me~]()
+Collaboratory Platform, short for Colab, is an Integrated Developer Environment(IDE) developed by Google. It also functions as the developing platform in which we are going to write and test our code. A good weel could facilitate developers on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources. More introduction about Colab [Click me~](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Colaboratory.pdf)
 
 ## System, Language and Tools
 Click badge below!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
