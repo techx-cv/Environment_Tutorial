@@ -3,11 +3,10 @@
 This is the tutorial for the environment setting of the TechX computer vision track, which will help you set up everything you need for development. 👾Many detailed tutorials and documents are linked to the Badge Button below. If you wanna learn more, feel free to click it and explore it on your own! 
 
 ## What is Colab & Why Colab?
-Collaboratory Platform, short for Colab, is an Integrated Developer Environment(IDE) developed by Google. It also functions as the developing platform in which we are going to write and test our code. A good weel could facilitate developers on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources.
+Collaboratory Platform, short for Colab, is an Integrated Developer Environment(IDE) developed by Google. It also functions as the developing platform in which we are going to write and test our code. A good weel could facilitate developers on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources. More introduction about Colab [Click me~]()
 
-## More introduction about Colab[Click me~]()
 ## System, Language and Tools
-Click me!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+Click badge below!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/tutorials)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/tutorial/)
