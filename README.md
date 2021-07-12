@@ -40,4 +40,4 @@ Now we can access Colab; Follow the instruction and create your own Colab notebo
 
 ## Task Four: Advanced Setting in Colab
 
-Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. Quick Link to [Advance config instruction]
+Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. Quick Link to [Advance config instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Colab%20Advanced%20Setting%20Instruction.pdf)
