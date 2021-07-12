@@ -43,4 +43,4 @@ Now we can access Colab; Follow the instruction and create your own Colab notebo
 Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. Quick Link to [Advance config instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Colab%20Advanced%20Setting%20Instruction.pdf)
 
 ## Task Five: Useful Commands
-Please check the notebook in the [asset](https://github.com/techx-cv/Environment_Tutorial/blob/main/assets/Useful_commands.ipynb) or [colab](https://colab.research.google.com/drive/1WFAq6_CDLiMPk2x_rtsrZNCFyxEdEXcX?usp=sharing) to get learn some useful majic commands in the notebook. 
+Please check the notebook in the [asset](https://github.com/techx-cv/Environment_Tutorial/blob/main/assets/Useful_commands.ipynb) or [colab](https://colab.research.google.com/drive/1WFAq6_CDLiMPk2x_rtsrZNCFyxEdEXcX?usp=sharing) to learn some useful majic commands in the notebook. 
