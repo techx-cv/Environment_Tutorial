@@ -5,6 +5,7 @@ This is the tutorial for the environment setting of the TechX computer vision tr
 ## What is Colab & Why Colab?
 Collaboratory Platform, short for Colab, is an Integrated Developer Environment(IDE) developed by Google. It also functions as the developing platform in which we are going to write and test our code. A good weel could facilitate developers on a great scale. Therefore, choosing a well-integrated IDE would be crucial. Colab, as an online IDE, outperforms many other local IDE on three aspects: easy to deploy, easy to config, various computation resources.
 
+## More introduction about Colab[Click me~]()
 ## System, Language and Tools
 Click me!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
