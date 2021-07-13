@@ -37,11 +37,13 @@ If you already have a Google account, please skip this task. If you don't have a
 
 ## Task Three: Set up your Colab
 
-Now we can access Colab; Follow the instruction and create your own Colab notebook. Quick Link to [Colab setting instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Google%20Colab%20Instruction.pdf)
+Now we can access Colab; Follow the instruction and create your own Colab notebook. 
+* Quick Link to [Colab setting instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Google%20Colab%20Instruction.pdf)
 
 ## Task Four: Advanced Setting in Colab
 
-Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. Quick Link to [Advance config instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Colab%20Advanced%20Setting%20Instruction.pdf)
+Now the basic configuration is all set. If you wanna know more about Colab, follow the additional instruction. 
+* Quick Link to [Advance config instruction](https://github.com/techx-cv/Environment_Tutorial/blob/main/instructions/Colab%20Advanced%20Setting%20Instruction.pdf)
 
 ## Task Five: Useful Commands
 Please check the notebook in the [asset](https://github.com/techx-cv/Environment_Tutorial/blob/main/assets/Useful_commands.ipynb) or [colab](https://colab.research.google.com/drive/1WFAq6_CDLiMPk2x_rtsrZNCFyxEdEXcX?usp=sharing) to learn some useful majic commands in the notebook. 
